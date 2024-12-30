@@ -64,11 +64,11 @@ The **Quick Recipes App** is a user-friendly iOS application designed to help us
 ---
 
 ## 📸 Screenshots
-1. ![Home Screen](https://raw.githubusercontent.com/iOSDila/quick-recipes-app/main/images/home-screen.png)
-2. ![Recipe Details](https://raw.githubusercontent.com/iOSDila/quick-recipes-app/main/images/recipe-details.png)
-3. ![Dark Mode](https://raw.githubusercontent.com/iOSDila/quick-recipes-app/main/images/dark-mode.png)
-4. ![Search Results](https://raw.githubusercontent.com/iOSDila/quick-recipes-app/main/images/search-results.png)
-5. ![Step-by-Step Instructions](https://raw.githubusercontent.com/iOSDila/quick-recipes-app/main/images/step-by-step.png)
+1. ![Home Screen](home-screen.png)
+2. ![Recipe Details](recipe-details.png)
+3. ![Dark Mode](dark-mode.png)
+4. ![Search Results](search-results.png)
+5. ![Step-by-Step Instructions](step-by-step.png)
 
 
 
