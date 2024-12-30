@@ -67,7 +67,7 @@ The **Quick Recipes App** is a user-friendly iOS application designed to help us
 1. ![Home Screen](home-screen.png)
 2. ![Recipe Details](recipe-details.png)
 3. ![Dark Mode](dark-mode.png)
-4. ![Search Results](search-results.png)
+4. ![Search Results](search-result.png)
 5. ![Step-by-Step Instructions](step-by-step.png)
 
 
